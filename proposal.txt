@@ -1,0 +1,66 @@
+			 CribMatch
+What type of project will you work on? Will it be a web app, mobile app, or something else?  What will your project do?
+	CribMatch will be a mobile app designed to assist people looking to find roommates 
+    with similar lifestyles, living habits, and goals for living arrangements. CribMatch 
+    will function similarly to social media applications such as Instagram or FaceBook. Users 
+    will have a profile that includes a bio, price range, preferences, living habits, etc. 
+    The app will also use a similar function to Tinder in that users will be matched based on what
+    they list in their profile. For example, a user who lists that they wake up at 8am would be less
+    likely to match with someone who wakes up at 11am. The goal of this project is to streamline the 
+    process of finding a roommate by displaying clear and thorough descriptions of what people are
+    seeking when making living arrangements. Users will have the ability to scroll and examine other
+    profiles to see whether or not they fit what they are looking for. Users can then DM whomever they
+    are interested in rooming with and exchange contact info, arrange meet-ups, disclose lease information,
+    etc. If a user already has a lease agreement in place, they can search for other users that fit the
+    requirements of the lease. For example, someone can list their price range on their profile. Another
+    user can go to the search tab and filter out users who do not fit the price range on their lease.
+    CribMatch can also be used to match people planning on living in dorms on college campuses. Users
+    can list their college, preferred dorm, year, etc. alongside their living habits. 
+
+Why did you choose to work on this project? What motivates you to choose this topic?
+    We chose to work on this project because we are currently struggling to find a roommate! For
+    the past three months, we have been working incredibly hard to find a lease for the upcoming school year.
+    Fortunately for us, we were able to find a cozy crib to call home, but things took a turn for the worse
+    when our third roommate decided he wanted to study abroad in the spring! Oh crap! We needed to find a third
+    roommate for the fall semester ASAP! What do we do? Who do we ask? The 2027 UNC student Snapchat story? Absolutely
+    not! We need a different solution… We need an App!
+
+Who is the target audience of this app? Be specific about the demographic (age / occupation), the type of devices they might use (computer, Apple phone, smartwatch, etc).
+    The target audience for CribMatch is young college students who are actively looking for roommates. We want
+    to target a younger generation by using a modern structure for our app. Making the app function similarly
+    to a dating app would make the roommate search more enjoyable for individuals, which may lead to a younger
+    demographic populating our app. As college students, we understand how stressful the roommate search process 
+    can be, so we are making it our goal to develop an app specifically designed to help those like us who are in
+    need of a new house buddy. Our target demographic uses cell phones frequently in their daily lives, so we 
+    decided it would be best to develop an app, as this would capitalize on the target demographic’s attention 
+    span best. We also would like to encourage non-college students to use our app. Since our app has a somewhat 
+    trendy design, we wouldn’t expect older individuals to use our app, but we would still make accommodations for 
+    all age demographics nonetheless. This app would not target those looking for romantic partners as roommates. Our 
+    goal would be to bring those together who are looking for platonic friends to share a wonderful living space with.
+
+What problem does your project hope to tackle? How will your final product help to solve this problem? How will the target audience you specified above benefit from your app?
+	Searching for a roommate can be extremely difficult for a plethora of reasons. There are often many deal breakers, 
+    caveats, intricacies in agreements, etc. that require long conversation and planning between people to figure out. 
+    The goal of CribMatch is to list all of these different complications in finding a roommate on the frontend making 
+    it easier on people to find and plan roommate agreements. Many people are forced into situations such as having a 
+    random roommate that can end poorly. Oftentimes, people don’t realize they aren’t compatible until it is too late 
+    to switch. We here at CribMatch believe in the importance of suitable and agreeable living situations. In today’s 
+    economy, it’s tough to afford housing of your own and many people seek roommates to assist in paying for housing. 
+    The reality of it is, a majority of the youth will need to live with roommates for the foreseeable future. Therefore, 
+    searching and learning about potential housing and roommate situations has never been more critical. We seek to make this 
+    often difficult process easier and more accessible to those struggling to find a roommate. College students and graduates 
+    will likely need this app for the reasons listed above. Making the roommate search process easier will put less stress on 
+    those trying to find housing in an already lacking market.
+
+Identify the programming language(s) you will need to learn in order to work on this project. Provide a link to the official documentation for this programming language. Also, please provide 3 free, easy-to-access resources that you can use to learn this programming language.
+	The main programming languages we would use would be Swift, Java, and Koltin. Swift is primarily used for IOS app development, 
+    while Java and Koltin are used for Android app development.
+
+Swift Tutorial - https://developer.apple.com/tutorials/develop-in-swift/welcome-to- develop-in-swift-tutorials
+
+Java Tutorial - https://www.geeksforgeeks.org/java-tutorial/
+
+Koltin Tutorial - https://developer.android.com/courses/android-basics-compose/unit-1
+
+Identify the tools, frameworks, etc. you might need to learn in order to work on this project. Please provide a link to each.
+React Native - https://reactnative.dev/
